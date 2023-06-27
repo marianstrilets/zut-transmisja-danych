@@ -1,0 +1,7 @@
+Podczas realizacji tego laboratorium, nauczylem się implementacji sygnałów zmodulowanych za pomocą trzech różnych technik: 
+modulacji amplitudy (AM), modulacji fazy (PM) i modulacji częstotliwości (FM). 
+Każda z technik została zastosowana do trzech różnych warunków, co daje w sumie 9 różnych sygnałów zmodulowanych.
+
+Dla każdego z tych sygnałów zmodulowanych, kod oblicza widmo amplitudowe i wyświetla je na wykresach. 
+
+Kod oblicza również szerokość pasma dla każdego sygnału zmodulowanego.
