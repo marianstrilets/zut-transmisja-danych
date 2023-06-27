@@ -1,0 +1,16 @@
+Podczas realizacji tego laboratorium, nauczylem się implementacje trzy metody kluczowania sygnałów: 
+ASK kluczowanie amplitudy (Amplitude Shift Keying), 
+PSK kluczowanie fazy (Phase Shift Keying) oraz 
+FSK kluczowanie częstotliwości(Frequency Shift Keying).
+
+Każda z tych metod jest użyteczna w różnych scenariuszach. 
+ASK, który zmienia amplitudę sygnału nosnego w zależności od informacji binarnej, jest stosunkowo prosty do zaimplementowania. 
+PSK, który zmienia fazę sygnału nosnego, jest bardziej odporny na błędy i zakłócenia, ale jest bardziej skomplikowany do zaimplementowania. 
+FSK, który zmienia częstotliwość sygnału nosnego, jest również stosowany w różnych aplikacjach, zwłaszcza tam, gdzie zakłócenia są wysokie.
+
+Znaki ASCII są konwertowane na strumień bitów, który jest następnie modulowany za pomocą powyższych metod kluczowania. 
+Wynik modulacji jest reprezentowany na wykresie, co pomaga zrozumieć proces modulacji.
+Proces demodulacji jest również implementowany, który obejmuje odzyskiwanie sygnału zmodulowanego na strumień bitów. 
+Ta implementacja pozwala zrozumieć, jak informacje są odzyskiwane z sygnałów zmodulowanych.
+
+
