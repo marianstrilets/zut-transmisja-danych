@@ -1,6 +1,6 @@
 Podczas realizacji tego laboratorium, nauczylem się implementacje trzy metody kluczowania sygnałów: 
 ASK kluczowanie amplitudy (Amplitude Shift Keying), 
-PSK kluczowanie fazy (Phase Shift Keying) oraz 
+PSK kluczowanie fazy (Phase Shift Keying), 
 FSK kluczowanie częstotliwości(Frequency Shift Keying).
 
 Każda z tych metod jest użyteczna w różnych scenariuszach. 
