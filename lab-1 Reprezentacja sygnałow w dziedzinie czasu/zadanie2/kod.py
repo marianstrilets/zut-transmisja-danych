@@ -39,21 +39,21 @@ def main():
     plt.xlabel('Czas [s]')
     plt.ylabel('Aplituda')
     plt.title('Wykres sygnalu y(t) o częstotliwości 1 kHz')
-    plt.savefig('./y.png')
+    plt.savefig('./zadanie2/y.png')
     plt.show()
     
     plt.plot(t, z(t))
     plt.xlabel('Czas [s]')
     plt.ylabel('Aplituda')
     plt.title('Wykres sygnalu z(t) o częstotliwości 1 kHz')
-    plt.savefig('./z.png')
+    plt.savefig('./zadanie2/z.png')
     plt.show()
     
     plt.plot(t, v(t))
     plt.xlabel('Czas [s]')
     plt.ylabel('Aplituda')
     plt.title('Wykres sygnalu v(t) o częstotliwości 1 kHz')
-    plt.savefig('./v.png')
+    plt.savefig('./zadanie2/v.png')
     plt.show()
 
 if __name__ == "__main__":

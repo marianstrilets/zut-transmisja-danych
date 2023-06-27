@@ -34,7 +34,7 @@ def main():
     plt.xlabel('Czas [s]')
     plt.ylabel('Aplituda')
     plt.title('Wykres sygnalu u(t)')
-    plt.savefig('./u.png')
+    plt.savefig('./zadanie3/u.png')
     plt.show()
 
 if __name__ == "__main__":

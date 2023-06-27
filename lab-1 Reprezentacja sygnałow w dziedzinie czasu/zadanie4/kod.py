@@ -30,7 +30,7 @@ def main():
         plt.xlabel('Czas [s]')
         plt.ylabel('Aplituda')
         plt.title('Wykres sygnalu b' + str(cnt)  + '(t)')
-        plt.savefig('./b' + str(cnt) + '.png')
+        plt.savefig('./zadanie4/b' + str(cnt) + '.png')
         cnt = cnt+1
         plt.show()
 

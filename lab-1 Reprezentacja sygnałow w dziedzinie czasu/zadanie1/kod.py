@@ -41,7 +41,7 @@ def main():
     plt.xlabel('Czas [s]')
     plt.ylabel('Amplituda')
     plt.title('Wykres sygnału x(t) o częstotliwości 1 kHz')
-    plt.savefig('./x.png')   # zapisuje wykres do pliku 'x.png'
+    plt.savefig('./zadanie1/x.png')   # zapisuje wykres do pliku 'x.png'
     plt.show()
 
 
