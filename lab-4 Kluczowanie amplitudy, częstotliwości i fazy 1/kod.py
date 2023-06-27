@@ -31,9 +31,7 @@ def ascii_to_bit(bn):
 #   gzie W jest liczbą calkowitą okręślującą docelową częstotliwość
 #   (po wymnozeniu przez odwrotność czasu trwania pojedęczego bitu)
 # ------------------------------------------------------------------------------------------------------
-#bn = 'ULz'  # strumień bitowy
 bn = 'ab'  # strumień bitowy
-#bn = 'qwerty'    # strumień bitowy
 Tc = 1      # [s] czas trwania sygnału, (czas próbkowania w sekundach)
 bits = ascii_to_bit(bn)
 B = len(bits)   # liczba bitów sygnalu informatycznego

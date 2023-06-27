@@ -1,0 +1,14 @@
+Podczas realizacji tego laboratorium, nauczylem się: zamieniac dowolny napis w formacie ASCII na 7-bitowe binarne reprezentacje. 
+Te binarne ciągi są następnie łączone, aby utworzyć pojedynczy strumień bitów.
+
+Następnie generować sygnały ASK, PSK i FSK, które są różnymi metodami modulacji sygnału a następnie 
+przedstawiać te sygnały na wykresach czasowych. 
+
+Dalej skrypt analizuje również widmo amplitudowe tych sygnałów, które pokazuje rozkład częstotliwości sygnału w domenie częstotliwości, 
+generuje i prezentuje widma amplitudowe w skali decybelowej dla sygnałów ASK, PSK i FSK.
+
+Na koniec, skrypt oszacowuje szerokość pasma sygnałów ASK, PSK i FSK na poziomach 3dB, 6dB i 12dB. 
+Szerokość pasma jest zakresem częstotliwości, w którym sygnał jest przekazywany z dość małym tłumieniem.
+
+Ogólnie, kod ten demonstruje proces generowania i analizy sygnałów cyfrowych z wykorzystaniem różnych metod modulacji. 
+Dzięki niemu można lepiej zrozumieć, jak różne techniki modulacji wpływają na cechy sygnału, takie jak jego wykres czasowy, widmo amplitudowe i szerokość pasma.
