@@ -1,0 +1,17 @@
+Podczas realizacji tego laboratorium, nauczylem się implementacji kodów Hamminga (7, 4) i (15, 11). 
+Kody Hamminga są używane do wykrywania i automatycznego poprawiania błędów, które mogą wystąpić podczas transmisji danych.
+
+Kodowanie Hamminga (7, 4): Nauczylem się, jak przekształcić 4-bitowy blok danych wejściowych w 7-bitowy blok, dodając trzy bity parzystości. 
+Zrozumiałem, jak bity parzystości są obliczane na podstawie bitów danych.
+
+Dekodowanie Hamminga (7, 4): Nauczylem się, jak odkodować 7-bitowy blok, wykrywając i korygując ewentualne błędy. 
+Zrozumiałem, jak bity parzystości są używane do lokalizacji i korekcji błędów.
+
+Kodowanie Hamminga (15, 11): Nauczylem się, jak generować macierz generującą G dla kodu Hamminga (15, 11). 
+Zrozumiałem, jak przekształcić 11-bitowy blok danych wejściowych w 15-bitowy blok, dodając cztery bity parzystości.
+
+Dekodowanie Hamminga (15, 11): Nauczylem się, jak odkodować 15-bitowy blok, wykrywając i korygując ewentualne błędy. 
+Zrozumiałem, jak obliczyć zespół i lokalizować błąd.
+
+Przez realizację tego laboratorium zrozumiałem, znaczenie kodowania Hamminga w dziedzinie komunikacji cyfrowej. 
+Kody Hamminga są wysoce efektywne w wykrywaniu i korygowaniu błędów, co jest kluczowe dla utrzymania niezawodności i integralności danych w systemach komunikacyjnych.
